@@ -10,7 +10,7 @@ import { playChime } from '../../lib/chime'
 
 type TimerStatus = 'idle' | 'running' | 'paused' | 'done'
 
-const TTS_ENABLED_KEY = 'dinner-spinner-tts-enabled'
+const TTS_ENABLED_KEY = 'pantry2plate-tts-enabled'
 
 interface CookModeProps {
   recipeName: string

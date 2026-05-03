@@ -14,7 +14,7 @@ import { recipes } from '../src/data/recipes'
 import type { Recipe } from '../src/data/types'
 
 const SITE_URL =
-  (process.env.VITE_SITE_URL ?? 'https://itzshoaib.github.io/dinner-spinner').replace(/\/$/, '')
+  (process.env.VITE_SITE_URL ?? 'https://itzshoaib.github.io/pantry2plate').replace(/\/$/, '')
 
 function dietaryLabels(r: Recipe): string {
   const parts: string[] = []
@@ -57,7 +57,7 @@ function recipeMarkdown(r: Recipe): string {
   return lines.join('\n')
 }
 
-const intro = `# Dinner Spinner
+const intro = `# Pantry2Plate
 
 > A playful meal picker for couples and families. Spin three reels — cuisine,
 > style, and protein — or filter by time and dietary needs to get curated

@@ -11,15 +11,15 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg'],
       manifest: {
-        name: 'Dinner Spinner',
+        name: 'Pantry2Plate',
         short_name: 'Spinner',
         description: 'A fun meal picker for your family',
         theme_color: '#D97706',
         background_color: '#0C0A09',
         display: 'standalone',
         orientation: 'portrait',
-        start_url: '/dinner-spinner/',
-        scope: '/dinner-spinner/',
+        start_url: '/pantry2plate/',
+        scope: '/pantry2plate/',
         icons: [
           {
             src: 'favicon.svg',
@@ -83,5 +83,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/dinner-spinner/',
+  base: '/pantry2plate/',
 })

@@ -18,7 +18,7 @@ const dietaryOptions = [
 
 export function PreferencesPage() {
   useSeo({
-    title: 'Preferences — Dinner Spinner',
+    title: 'Preferences — Pantry2Plate',
     description: 'Set your dietary preferences, spice level, and theme.',
     path: '/preferences',
     noIndex: true,

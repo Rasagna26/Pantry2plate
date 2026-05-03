@@ -28,7 +28,7 @@ const navTiles = [
 
 export function NotFoundPage() {
   useSeo({
-    title: '404 — Page not found | Dinner Spinner',
+    title: '404 — Page not found | Pantry2Plate',
     description: 'The page you were looking for is not on the menu.',
     noIndex: true,
   })
@@ -88,7 +88,7 @@ function Emblem() {
       height="150"
       className="mx-auto"
       role="img"
-      aria-label="Dinner Spinner emblem"
+      aria-label="Pantry2Plate emblem"
     >
       <defs>
         <linearGradient id="nf-disc" x1="0%" y1="0%" x2="100%" y2="100%">

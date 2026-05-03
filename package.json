@@ -1,9 +1,9 @@
 {
-  "name": "dinner-spinner",
+  "name": "pantry2plate",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://itzshoaib.github.io/dinner-spinner",
+  "homepage": "https://itzshoaib.github.io/pantry2plate",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

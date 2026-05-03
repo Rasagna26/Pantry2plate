@@ -10,7 +10,7 @@ import { resolve } from 'node:path'
 import { recipes } from '../src/data/recipes'
 
 const SITE_URL =
-  (process.env.VITE_SITE_URL ?? 'https://itzshoaib.github.io/dinner-spinner').replace(/\/$/, '')
+  (process.env.VITE_SITE_URL ?? 'https://itzshoaib.github.io/pantry2plate').replace(/\/$/, '')
 
 interface Entry {
   loc: string

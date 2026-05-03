@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 
-const VOICE_STORAGE_KEY = 'dinner-spinner-voice'
+const VOICE_STORAGE_KEY = 'pantry2plate-voice'
 
 // Rank available voices to pick the best-sounding one automatically.
 //

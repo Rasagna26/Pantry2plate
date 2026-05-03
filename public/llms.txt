@@ -1,4 +1,4 @@
-# Dinner Spinner
+# Pantry2Plate
 
 > A playful meal picker for couples and families. Spin three reels — cuisine,
 > style, and protein — or filter by time and dietary needs to get curated
@@ -8,10 +8,10 @@
 This file follows the [llms.txt](https://llmstxt.org/) convention: a
 machine-readable index of the site's primary content for LLMs and AI agents.
 
-- Site: https://itzshoaib.github.io/dinner-spinner/
-- Browse: https://itzshoaib.github.io/dinner-spinner/recipes/
-- Sitemap: https://itzshoaib.github.io/dinner-spinner/sitemap.xml
-- Full content (all recipes inlined as markdown): https://itzshoaib.github.io/dinner-spinner/llms-full.txt
+- Site: https://itzshoaib.github.io/pantry2plate/
+- Browse: https://itzshoaib.github.io/pantry2plate/recipes/
+- Sitemap: https://itzshoaib.github.io/pantry2plate/sitemap.xml
+- Full content (all recipes inlined as markdown): https://itzshoaib.github.io/pantry2plate/llms-full.txt
 
 ## How recipes are organised
 
@@ -23,147 +23,147 @@ dairy-free), ingredients with quantities, numbered steps, and optional tips.
 
 ## Recipes
 
-- [Macher Jhol (মাছের ঝোল)](https://itzshoaib.github.io/dinner-spinner/recipes/macher-jhol) — Bengali curry, 40 min, easy
-- [Chingri Malai Curry (চিংড়ি মালাই কারি)](https://itzshoaib.github.io/dinner-spinner/recipes/chingri-malai-curry) — Bengali curry, 45 min, medium
-- [Kosha Mangsho (কষা মাংস)](https://itzshoaib.github.io/dinner-spinner/recipes/kosha-mangsho) — Bengali curry, 80 min, medium
-- [Shorshe Ilish (সর্ষে ইলিশ)](https://itzshoaib.github.io/dinner-spinner/recipes/shorshe-ilish) — Bengali curry, 35 min, medium
-- [Aloo Posto (আলু পোস্ত)](https://itzshoaib.github.io/dinner-spinner/recipes/aloo-posto) — Bengali dry, 30 min, easy
-- [Begun Bhaja (বেগুন ভাজা)](https://itzshoaib.github.io/dinner-spinner/recipes/begun-bhaja) — Bengali fried, 15 min, easy
-- [Luchi-Alur Dom (লুচি-আলুর দম)](https://itzshoaib.github.io/dinner-spinner/recipes/luchi-alur-dom) — Bengali bread meal, 50 min, medium
-- [Mishti Doi (মিষ্টি দই)](https://itzshoaib.github.io/dinner-spinner/recipes/mishti-doi) — Bengali sweet, 385 min, easy
-- [Rasgulla (রসগোল্লা)](https://itzshoaib.github.io/dinner-spinner/recipes/rasgulla) — Bengali sweet, 50 min, hard
-- [Sandesh (সন্দেশ)](https://itzshoaib.github.io/dinner-spinner/recipes/sandesh) — Bengali sweet, 30 min, medium
-- [Bengali Fish Fry (মাছ ভাজা)](https://itzshoaib.github.io/dinner-spinner/recipes/bengali-fish-fry) — Bengali dry, 35 min, medium
-- [Doi Maach (দই মাছ)](https://itzshoaib.github.io/dinner-spinner/recipes/doi-maach) — Bengali curry, 40 min, medium
-- [Mochar Ghonto (মোচার ঘণ্ট)](https://itzshoaib.github.io/dinner-spinner/recipes/mochar-ghonto) — Bengali dry, 55 min, hard
-- [Cholar Dal (ছোলার ডাল)](https://itzshoaib.github.io/dinner-spinner/recipes/cholar-dal) — Bengali curry, 40 min, easy
-- [Dhokar Dalna (ধোকার ডালনা)](https://itzshoaib.github.io/dinner-spinner/recipes/dhokar-dalna) — Bengali curry, 60 min, hard
-- [Shukto (শুক্তো)](https://itzshoaib.github.io/dinner-spinner/recipes/shukto) — Bengali curry, 45 min, medium
-- [Posto Bora (পোস্ত বড়া)](https://itzshoaib.github.io/dinner-spinner/recipes/posto-bora) — Bengali fried, 25 min, easy
-- [Jhinge Posto (ঝিঙে পোস্ত)](https://itzshoaib.github.io/dinner-spinner/recipes/jhinge-posto) — Bengali dry, 25 min, easy
-- [Aloor Dum (আলুর দম)](https://itzshoaib.github.io/dinner-spinner/recipes/aloor-dum) — Bengali curry, 35 min, easy
-- [Panta Bhat (পান্তা ভাত)](https://itzshoaib.github.io/dinner-spinner/recipes/panta-bhat) — Bengali rice bowl, 15 min, easy
-- [Keema Doi (কিমার দই)](https://itzshoaib.github.io/dinner-spinner/recipes/keema-doi) — Bengali curry, 50 min, medium
-- [Chicken Kosha (চিকেন কষা)](https://itzshoaib.github.io/dinner-spinner/recipes/chicken-kosha) — Bengali curry, 55 min, medium
-- [Fulkopir Singara (ফুলকপির সিঙাড়া)](https://itzshoaib.github.io/dinner-spinner/recipes/fulkopir-singara) — Bengali fried, 50 min, hard
-- [Telebhaja (Beguni & Peyaji) (তেলেভাজা (বেগুনি ও পেঁয়াজি))](https://itzshoaib.github.io/dinner-spinner/recipes/telebhaja) — Bengali fried, 30 min, easy
-- [Kolkata Biryani (কলকাতা বিরিয়ানি)](https://itzshoaib.github.io/dinner-spinner/recipes/kolkata-biryani) — Bengali rice bowl, 100 min, hard
-- [Lau Ghonto (লাউ ঘণ্ট)](https://itzshoaib.github.io/dinner-spinner/recipes/lau-ghonto) — Bengali dry, 30 min, easy
-- [Muri Ghonto (মুড়ি ঘণ্ট)](https://itzshoaib.github.io/dinner-spinner/recipes/muri-ghonto) — Bengali rice bowl, 45 min, medium
-- [Prawn Malai Curry (চিংড়ি মালাইকারি)](https://itzshoaib.github.io/dinner-spinner/recipes/prawn-malai-curry) — Bengali curry, 35 min, medium
-- [Chholar Dal (ছোলার ডাল)](https://itzshoaib.github.io/dinner-spinner/recipes/chholar-dal) — Bengali curry, 35 min, easy
-- [Butter Chicken](https://itzshoaib.github.io/dinner-spinner/recipes/butter-chicken) — North Indian curry, 50 min, medium
-- [Dal Makhani](https://itzshoaib.github.io/dinner-spinner/recipes/dal-makhani) — North Indian curry, 75 min, medium
-- [Rajma](https://itzshoaib.github.io/dinner-spinner/recipes/rajma) — North Indian curry, 50 min, easy
-- [Palak Paneer](https://itzshoaib.github.io/dinner-spinner/recipes/palak-paneer) — North Indian curry, 35 min, easy
-- [Paneer Tikka](https://itzshoaib.github.io/dinner-spinner/recipes/paneer-tikka) — North Indian grilled, 35 min, easy
-- [Rogan Josh](https://itzshoaib.github.io/dinner-spinner/recipes/rogan-josh) — North Indian curry, 90 min, hard
-- [Kadai Paneer](https://itzshoaib.github.io/dinner-spinner/recipes/kadai-paneer) — North Indian curry, 30 min, easy
-- [Baingan Bharta](https://itzshoaib.github.io/dinner-spinner/recipes/baingan-bharta) — North Indian dry, 35 min, easy
-- [Tandoori Chicken](https://itzshoaib.github.io/dinner-spinner/recipes/tandoori-chicken) — North Indian grilled, 45 min, medium
-- [Shahi Paneer](https://itzshoaib.github.io/dinner-spinner/recipes/shahi-paneer) — North Indian curry, 35 min, medium
-- [Malai Kofta](https://itzshoaib.github.io/dinner-spinner/recipes/malai-kofta) — North Indian curry, 55 min, hard
-- [Pav Bhaji](https://itzshoaib.github.io/dinner-spinner/recipes/pav-bhaji) — North Indian bread meal, 40 min, easy
-- [Dal Tadka](https://itzshoaib.github.io/dinner-spinner/recipes/dal-tadka) — North Indian curry, 35 min, easy
-- [Masala Dosa](https://itzshoaib.github.io/dinner-spinner/recipes/masala-dosa) — South Indian bread meal, 40 min, medium
-- [Idli Sambar](https://itzshoaib.github.io/dinner-spinner/recipes/idli-sambar) — South Indian light, 30 min, easy
-- [Upma](https://itzshoaib.github.io/dinner-spinner/recipes/upma) — South Indian savory, 20 min, easy
-- [Chicken Chettinad](https://itzshoaib.github.io/dinner-spinner/recipes/chicken-chettinad) — South Indian curry, 55 min, medium
-- [Fish Moilee](https://itzshoaib.github.io/dinner-spinner/recipes/fish-moilee) — South Indian curry, 30 min, easy
-- [Medu Vada](https://itzshoaib.github.io/dinner-spinner/recipes/medu-vada) — South Indian fried, 30 min, medium
-- [Uttapam](https://itzshoaib.github.io/dinner-spinner/recipes/uttapam) — South Indian bread meal, 20 min, easy
-- [Pesarattu](https://itzshoaib.github.io/dinner-spinner/recipes/pesarattu) — South Indian savory, 25 min, easy
-- [Avial](https://itzshoaib.github.io/dinner-spinner/recipes/avial) — South Indian curry, 35 min, easy
-- [Rasam Rice](https://itzshoaib.github.io/dinner-spinner/recipes/rasam-rice) — South Indian soup, 25 min, easy
-- [Chicken Manchurian](https://itzshoaib.github.io/dinner-spinner/recipes/chicken-manchurian) — Chinese fried, 40 min, medium
-- [Veg Hakka Noodles](https://itzshoaib.github.io/dinner-spinner/recipes/veg-hakka-noodles) — Chinese one pot, 25 min, easy
-- [Chilli Chicken](https://itzshoaib.github.io/dinner-spinner/recipes/chilli-chicken) — Chinese fried, 35 min, medium
-- [Veg Fried Rice](https://itzshoaib.github.io/dinner-spinner/recipes/veg-fried-rice) — Chinese rice bowl, 20 min, easy
-- [Gobi Manchurian](https://itzshoaib.github.io/dinner-spinner/recipes/gobi-manchurian) — Chinese fried, 35 min, medium
-- [Chilli Paneer](https://itzshoaib.github.io/dinner-spinner/recipes/chilli-paneer) — Chinese fried, 30 min, easy
-- [Schezwan Noodles](https://itzshoaib.github.io/dinner-spinner/recipes/schezwan-noodles) — Chinese one pot, 25 min, easy
-- [Momos](https://itzshoaib.github.io/dinner-spinner/recipes/momos) — Chinese light, 45 min, medium
-- [Pasta Arrabiata](https://itzshoaib.github.io/dinner-spinner/recipes/pasta-arrabiata) — Continental one pot, 25 min, easy
-- [Grilled Chicken Salad](https://itzshoaib.github.io/dinner-spinner/recipes/grilled-chicken-salad) — Continental light, 27 min, easy
-- [Mac & Cheese](https://itzshoaib.github.io/dinner-spinner/recipes/mac-and-cheese) — Continental one pot, 35 min, easy
-- [Mushroom Risotto](https://itzshoaib.github.io/dinner-spinner/recipes/mushroom-risotto) — Continental rice bowl, 40 min, medium
-- [Pancakes](https://itzshoaib.github.io/dinner-spinner/recipes/pancakes) — Continental sweet, 25 min, easy
-- [French Toast](https://itzshoaib.github.io/dinner-spinner/recipes/french-toast) — Continental sweet, 15 min, easy
-- [Caesar Salad](https://itzshoaib.github.io/dinner-spinner/recipes/caesar-salad) — Continental light, 20 min, easy
-- [Garlic Bread Pizza](https://itzshoaib.github.io/dinner-spinner/recipes/garlic-bread-pizza) — Continental baked, 30 min, easy
-- [Pad Thai](https://itzshoaib.github.io/dinner-spinner/recipes/pad-thai) — Asian one pot, 25 min, medium
-- [Thai Green Curry](https://itzshoaib.github.io/dinner-spinner/recipes/thai-green-curry) — Asian curry, 30 min, easy
-- [Ramen](https://itzshoaib.github.io/dinner-spinner/recipes/ramen) — Asian soup, 35 min, medium
-- [Bibimbap](https://itzshoaib.github.io/dinner-spinner/recipes/bibimbap) — Asian rice bowl, 35 min, medium
-- [Egg Fried Rice](https://itzshoaib.github.io/dinner-spinner/recipes/egg-fried-rice) — Asian rice bowl, 15 min, easy
-- [Tacos](https://itzshoaib.github.io/dinner-spinner/recipes/tacos) — Mexican bread meal, 30 min, easy
-- [Burrito Bowl](https://itzshoaib.github.io/dinner-spinner/recipes/burrito-bowl) — Mexican rice bowl, 35 min, easy
-- [Falafel Wrap](https://itzshoaib.github.io/dinner-spinner/recipes/falafel-wrap) — Mediterranean bread meal, 35 min, medium
-- [Hummus Platter](https://itzshoaib.github.io/dinner-spinner/recipes/hummus-platter) — Middle Eastern light, 10 min, easy
-- [Khaman Dhokla (ખમણ ઢોકળા)](https://itzshoaib.github.io/dinner-spinner/recipes/khaman-dhokla) — Gujarati sweet, 35 min, easy
-- [Undhiyu (ઊંધિયું)](https://itzshoaib.github.io/dinner-spinner/recipes/undhiyu) — Gujarati one pot, 90 min, hard
-- [Gujarati Kadhi (ગુજરાતી કઢી)](https://itzshoaib.github.io/dinner-spinner/recipes/gujarati-kadhi) — Gujarati curry, 30 min, easy
-- [Methi Thepla (મેથી થેપલા)](https://itzshoaib.github.io/dinner-spinner/recipes/methi-thepla) — Gujarati bread meal, 35 min, easy
-- [Khandvi (ખાંડવી)](https://itzshoaib.github.io/dinner-spinner/recipes/khandvi) — Gujarati light, 30 min, hard
-- [Handvo (હાંડવો)](https://itzshoaib.github.io/dinner-spinner/recipes/handvo) — Gujarati savory, 60 min, medium
-- [Gujarati Toor Dal (ગુજરાતી દાળ)](https://itzshoaib.github.io/dinner-spinner/recipes/gujarati-dal) — Gujarati curry, 35 min, easy
-- [Fafda (ફાફડા)](https://itzshoaib.github.io/dinner-spinner/recipes/fafda-jalebi) — Gujarati fried, 40 min, medium
-- [Sev Tameta nu Shaak (સેવ ટમેટા નું શાક)](https://itzshoaib.github.io/dinner-spinner/recipes/sev-tameta-nu-shaak) — Gujarati curry, 25 min, easy
-- [Misal Pav (मिसळ पाव)](https://itzshoaib.github.io/dinner-spinner/recipes/misal-pav) — Maharashtrian curry, 60 min, medium
-- [Vada Pav (वडा पाव)](https://itzshoaib.github.io/dinner-spinner/recipes/vada-pav) — Maharashtrian fried, 40 min, medium
-- [Puran Poli (पुरण पोळी)](https://itzshoaib.github.io/dinner-spinner/recipes/puran-poli) — Maharashtrian sweet, 60 min, hard
-- [Bharli Vangi (भरली वांगी)](https://itzshoaib.github.io/dinner-spinner/recipes/bharli-vangi) — Maharashtrian curry, 50 min, medium
-- [Fish Moilee (മീൻ മോയിലി)](https://itzshoaib.github.io/dinner-spinner/recipes/fish-moilee-kerala) — Kerala curry, 40 min, easy
-- [Puttu (പുട്ട്)](https://itzshoaib.github.io/dinner-spinner/recipes/puttu) — Kerala light, 25 min, easy
-- [Cabbage Thoran (തോരൻ)](https://itzshoaib.github.io/dinner-spinner/recipes/thoran) — Kerala dry, 25 min, easy
-- [Nadan Kozhi Curry (നാടൻ കോഴി കറി)](https://itzshoaib.github.io/dinner-spinner/recipes/nadan-kozhi-curry) — Kerala curry, 60 min, medium
-- [Chicken Vindaloo (विंदालू)](https://itzshoaib.github.io/dinner-spinner/recipes/chicken-vindaloo) — Goan curry, 65 min, medium
-- [Prawn Balchão (बाल्चाव)](https://itzshoaib.github.io/dinner-spinner/recipes/prawn-balchao) — Goan dry, 45 min, medium
-- [Chicken Xacuti (शाकूती)](https://itzshoaib.github.io/dinner-spinner/recipes/chicken-xacuti) — Goan curry, 70 min, hard
-- [Dal Baati Churma (दाल बाटी चूरमा)](https://itzshoaib.github.io/dinner-spinner/recipes/dal-baati-churma) — Rajasthani bread meal, 90 min, hard
-- [Gatte ki Sabzi (गट्टे की सब्ज़ी)](https://itzshoaib.github.io/dinner-spinner/recipes/gatte-ki-sabzi) — Rajasthani curry, 45 min, medium
-- [Laal Maas (लाल मांस)](https://itzshoaib.github.io/dinner-spinner/recipes/laal-maas) — Rajasthani curry, 100 min, hard
-- [Hyderabadi Chicken Biryani (حیدرآبادی بریانی)](https://itzshoaib.github.io/dinner-spinner/recipes/hyderabadi-chicken-biryani) — Hyderabadi rice bowl, 90 min, hard
-- [Mirchi ka Salan (مرچی کا سالن)](https://itzshoaib.github.io/dinner-spinner/recipes/mirchi-ka-salan) — Hyderabadi curry, 45 min, medium
-- [Haleem (حلیم)](https://itzshoaib.github.io/dinner-spinner/recipes/haleem) — Hyderabadi one pot, 210 min, hard
-- [Rogan Josh (روغن جوش)](https://itzshoaib.github.io/dinner-spinner/recipes/rogan-josh-kashmiri) — Kashmiri curry, 95 min, medium
-- [Mutton Yakhni (یخنی)](https://itzshoaib.github.io/dinner-spinner/recipes/kashmiri-yakhni) — Kashmiri curry, 85 min, medium
-- [Dum Aloo Kashmiri (दम आलू)](https://itzshoaib.github.io/dinner-spinner/recipes/dum-aloo-kashmiri) — Kashmiri curry, 50 min, medium
-- [Pad Thai (ผัดไทย)](https://itzshoaib.github.io/dinner-spinner/recipes/pad-thai-prawn) — Thai one pot, 30 min, medium
-- [Thai Green Curry (แกงเขียวหวาน)](https://itzshoaib.github.io/dinner-spinner/recipes/thai-green-curry-chicken) — Thai curry, 40 min, easy
-- [Tom Yum Goong (ต้มยำกุ้ง)](https://itzshoaib.github.io/dinner-spinner/recipes/tom-yum-goong) — Thai soup, 35 min, easy
-- [Chicken Teriyaki Donburi (照り焼き丼)](https://itzshoaib.github.io/dinner-spinner/recipes/chicken-teriyaki-donburi) — Japanese rice bowl, 25 min, easy
-- [Shoyu Ramen (醤油ラーメン)](https://itzshoaib.github.io/dinner-spinner/recipes/shoyu-ramen) — Japanese soup, 60 min, medium
-- [Chicken Katsu Curry (カツカレー)](https://itzshoaib.github.io/dinner-spinner/recipes/katsu-curry) — Japanese curry, 50 min, medium
-- [Spaghetti Aglio e Olio (Spaghetti aglio e olio)](https://itzshoaib.github.io/dinner-spinner/recipes/spaghetti-aglio-e-olio) — Italian one pot, 20 min, easy
-- [Margherita Pizza (Pizza Margherita)](https://itzshoaib.github.io/dinner-spinner/recipes/margherita-pizza) — Italian baked, 35 min, medium
-- [Chicken Parmigiana (Pollo alla parmigiana)](https://itzshoaib.github.io/dinner-spinner/recipes/chicken-parmigiana) — Italian grilled, 50 min, medium
-- [Mushroom Risotto (Risotto ai funghi)](https://itzshoaib.github.io/dinner-spinner/recipes/mushroom-risotto-italian) — Italian one pot, 45 min, medium
-- [Chicken Shawarma (شاورما الدجاج)](https://itzshoaib.github.io/dinner-spinner/recipes/chicken-shawarma) — Middle Eastern grilled, 45 min, easy
-- [Falafel (فلافل)](https://itzshoaib.github.io/dinner-spinner/recipes/falafel) — Middle Eastern fried, 35 min, medium
-- [Fattoush (فتوش)](https://itzshoaib.github.io/dinner-spinner/recipes/fattoush) — Middle Eastern light, 25 min, easy
-- [Luchi & Aloor Dom (লুচি ও আলুর দম)](https://itzshoaib.github.io/dinner-spinner/recipes/luchi-aloor-dom) — Bengali hearty, 45 min, medium
-- [Ghugni (ঘুগনি)](https://itzshoaib.github.io/dinner-spinner/recipes/ghugni) — Bengali hearty, 30 min, easy
-- [Aloo Paratha (आलू पराठा)](https://itzshoaib.github.io/dinner-spinner/recipes/aloo-paratha) — North Indian hearty, 40 min, medium
-- [Poha (पोहा)](https://itzshoaib.github.io/dinner-spinner/recipes/poha) — North Indian light, 20 min, easy
-- [Chole Bhature (छोले भटूरे)](https://itzshoaib.github.io/dinner-spinner/recipes/chole-bhature) — North Indian bread meal, 75 min, medium
-- [Congee (粥)](https://itzshoaib.github.io/dinner-spinner/recipes/congee) — Chinese light, 45 min, easy
-- [Scallion Pancake (葱油饼)](https://itzshoaib.github.io/dinner-spinner/recipes/scallion-pancake) — Chinese savory, 30 min, medium
-- [Paneer Bhurji](https://itzshoaib.github.io/dinner-spinner/recipes/paneer-bhurji) — North Indian dry, 15 min, easy
-- [Phodnicha Bhaat (फोडणीचा भात)](https://itzshoaib.github.io/dinner-spinner/recipes/phodnicha-bhaat) — Maharashtrian rice bowl, 15 min, easy
-- [Bagara Khana (بگارا کھانا)](https://itzshoaib.github.io/dinner-spinner/recipes/bagara-khana) — Hyderabadi rice bowl, 25 min, easy
-- [Hak (Kashmiri Greens) (हाक)](https://itzshoaib.github.io/dinner-spinner/recipes/hak-kashmiri-greens) — Kashmiri curry, 25 min, easy
-- [Lemon-Garlic Roast Chicken](https://itzshoaib.github.io/dinner-spinner/recipes/lemon-garlic-roast-chicken) — Mediterranean grilled, 75 min, medium
-- [Levantine Chopped Salad](https://itzshoaib.github.io/dinner-spinner/recipes/levantine-chopped-salad) — Middle Eastern light, 15 min, easy
-- [Greek Lamb Stifado](https://itzshoaib.github.io/dinner-spinner/recipes/greek-lamb-stifado) — Mediterranean one pot, 130 min, medium
-- [Tabbouleh](https://itzshoaib.github.io/dinner-spinner/recipes/tabbouleh) — Middle Eastern light, 20 min, easy
-- [Shorbat Adas (Lentil Soup) (شوربة عدس)](https://itzshoaib.github.io/dinner-spinner/recipes/shorbat-adas) — Middle Eastern soup, 40 min, easy
-- [Tacos al Pastor](https://itzshoaib.github.io/dinner-spinner/recipes/tacos-al-pastor) — Mexican grilled, 60 min, medium
-- [Pozole Rojo](https://itzshoaib.github.io/dinner-spinner/recipes/pozole-rojo) — Mexican soup, 90 min, medium
-- [Spaghetti Aglio e Olio](https://itzshoaib.github.io/dinner-spinner/recipes/aglio-e-olio) — Italian one pot, 15 min, easy
-- [Pad Krapow Gai (ผัดกะเพราไก่)](https://itzshoaib.github.io/dinner-spinner/recipes/pad-krapow-gai) — Thai dry, 15 min, easy
-- [Oyakodon (親子丼)](https://itzshoaib.github.io/dinner-spinner/recipes/oyakodon) — Japanese rice bowl, 20 min, easy
-- [Chicken Quesadilla](https://itzshoaib.github.io/dinner-spinner/recipes/chicken-quesadilla) — Mexican bread meal, 15 min, easy
-- [Aloo Tikki Chaat](https://itzshoaib.github.io/dinner-spinner/recipes/aloo-tikki-chaat) — North Indian chaat, 30 min, medium
-- [Besan Cheela (बेसन चीला)](https://itzshoaib.github.io/dinner-spinner/recipes/besan-cheela) — North Indian light, 20 min, easy
-- [Goan Chicken Cafreal](https://itzshoaib.github.io/dinner-spinner/recipes/goan-chicken-cafreal) — Goan dry, 35 min, easy
+- [Macher Jhol (মাছের ঝোল)](https://itzshoaib.github.io/pantry2plate/recipes/macher-jhol) — Bengali curry, 40 min, easy
+- [Chingri Malai Curry (চিংড়ি মালাই কারি)](https://itzshoaib.github.io/pantry2plate/recipes/chingri-malai-curry) — Bengali curry, 45 min, medium
+- [Kosha Mangsho (কষা মাংস)](https://itzshoaib.github.io/pantry2plate/recipes/kosha-mangsho) — Bengali curry, 80 min, medium
+- [Shorshe Ilish (সর্ষে ইলিশ)](https://itzshoaib.github.io/pantry2plate/recipes/shorshe-ilish) — Bengali curry, 35 min, medium
+- [Aloo Posto (আলু পোস্ত)](https://itzshoaib.github.io/pantry2plate/recipes/aloo-posto) — Bengali dry, 30 min, easy
+- [Begun Bhaja (বেগুন ভাজা)](https://itzshoaib.github.io/pantry2plate/recipes/begun-bhaja) — Bengali fried, 15 min, easy
+- [Luchi-Alur Dom (লুচি-আলুর দম)](https://itzshoaib.github.io/pantry2plate/recipes/luchi-alur-dom) — Bengali bread meal, 50 min, medium
+- [Mishti Doi (মিষ্টি দই)](https://itzshoaib.github.io/pantry2plate/recipes/mishti-doi) — Bengali sweet, 385 min, easy
+- [Rasgulla (রসগোল্লা)](https://itzshoaib.github.io/pantry2plate/recipes/rasgulla) — Bengali sweet, 50 min, hard
+- [Sandesh (সন্দেশ)](https://itzshoaib.github.io/pantry2plate/recipes/sandesh) — Bengali sweet, 30 min, medium
+- [Bengali Fish Fry (মাছ ভাজা)](https://itzshoaib.github.io/pantry2plate/recipes/bengali-fish-fry) — Bengali dry, 35 min, medium
+- [Doi Maach (দই মাছ)](https://itzshoaib.github.io/pantry2plate/recipes/doi-maach) — Bengali curry, 40 min, medium
+- [Mochar Ghonto (মোচার ঘণ্ট)](https://itzshoaib.github.io/pantry2plate/recipes/mochar-ghonto) — Bengali dry, 55 min, hard
+- [Cholar Dal (ছোলার ডাল)](https://itzshoaib.github.io/pantry2plate/recipes/cholar-dal) — Bengali curry, 40 min, easy
+- [Dhokar Dalna (ধোকার ডালনা)](https://itzshoaib.github.io/pantry2plate/recipes/dhokar-dalna) — Bengali curry, 60 min, hard
+- [Shukto (শুক্তো)](https://itzshoaib.github.io/pantry2plate/recipes/shukto) — Bengali curry, 45 min, medium
+- [Posto Bora (পোস্ত বড়া)](https://itzshoaib.github.io/pantry2plate/recipes/posto-bora) — Bengali fried, 25 min, easy
+- [Jhinge Posto (ঝিঙে পোস্ত)](https://itzshoaib.github.io/pantry2plate/recipes/jhinge-posto) — Bengali dry, 25 min, easy
+- [Aloor Dum (আলুর দম)](https://itzshoaib.github.io/pantry2plate/recipes/aloor-dum) — Bengali curry, 35 min, easy
+- [Panta Bhat (পান্তা ভাত)](https://itzshoaib.github.io/pantry2plate/recipes/panta-bhat) — Bengali rice bowl, 15 min, easy
+- [Keema Doi (কিমার দই)](https://itzshoaib.github.io/pantry2plate/recipes/keema-doi) — Bengali curry, 50 min, medium
+- [Chicken Kosha (চিকেন কষা)](https://itzshoaib.github.io/pantry2plate/recipes/chicken-kosha) — Bengali curry, 55 min, medium
+- [Fulkopir Singara (ফুলকপির সিঙাড়া)](https://itzshoaib.github.io/pantry2plate/recipes/fulkopir-singara) — Bengali fried, 50 min, hard
+- [Telebhaja (Beguni & Peyaji) (তেলেভাজা (বেগুনি ও পেঁয়াজি))](https://itzshoaib.github.io/pantry2plate/recipes/telebhaja) — Bengali fried, 30 min, easy
+- [Kolkata Biryani (কলকাতা বিরিয়ানি)](https://itzshoaib.github.io/pantry2plate/recipes/kolkata-biryani) — Bengali rice bowl, 100 min, hard
+- [Lau Ghonto (লাউ ঘণ্ট)](https://itzshoaib.github.io/pantry2plate/recipes/lau-ghonto) — Bengali dry, 30 min, easy
+- [Muri Ghonto (মুড়ি ঘণ্ট)](https://itzshoaib.github.io/pantry2plate/recipes/muri-ghonto) — Bengali rice bowl, 45 min, medium
+- [Prawn Malai Curry (চিংড়ি মালাইকারি)](https://itzshoaib.github.io/pantry2plate/recipes/prawn-malai-curry) — Bengali curry, 35 min, medium
+- [Chholar Dal (ছোলার ডাল)](https://itzshoaib.github.io/pantry2plate/recipes/chholar-dal) — Bengali curry, 35 min, easy
+- [Butter Chicken](https://itzshoaib.github.io/pantry2plate/recipes/butter-chicken) — North Indian curry, 50 min, medium
+- [Dal Makhani](https://itzshoaib.github.io/pantry2plate/recipes/dal-makhani) — North Indian curry, 75 min, medium
+- [Rajma](https://itzshoaib.github.io/pantry2plate/recipes/rajma) — North Indian curry, 50 min, easy
+- [Palak Paneer](https://itzshoaib.github.io/pantry2plate/recipes/palak-paneer) — North Indian curry, 35 min, easy
+- [Paneer Tikka](https://itzshoaib.github.io/pantry2plate/recipes/paneer-tikka) — North Indian grilled, 35 min, easy
+- [Rogan Josh](https://itzshoaib.github.io/pantry2plate/recipes/rogan-josh) — North Indian curry, 90 min, hard
+- [Kadai Paneer](https://itzshoaib.github.io/pantry2plate/recipes/kadai-paneer) — North Indian curry, 30 min, easy
+- [Baingan Bharta](https://itzshoaib.github.io/pantry2plate/recipes/baingan-bharta) — North Indian dry, 35 min, easy
+- [Tandoori Chicken](https://itzshoaib.github.io/pantry2plate/recipes/tandoori-chicken) — North Indian grilled, 45 min, medium
+- [Shahi Paneer](https://itzshoaib.github.io/pantry2plate/recipes/shahi-paneer) — North Indian curry, 35 min, medium
+- [Malai Kofta](https://itzshoaib.github.io/pantry2plate/recipes/malai-kofta) — North Indian curry, 55 min, hard
+- [Pav Bhaji](https://itzshoaib.github.io/pantry2plate/recipes/pav-bhaji) — North Indian bread meal, 40 min, easy
+- [Dal Tadka](https://itzshoaib.github.io/pantry2plate/recipes/dal-tadka) — North Indian curry, 35 min, easy
+- [Masala Dosa](https://itzshoaib.github.io/pantry2plate/recipes/masala-dosa) — South Indian bread meal, 40 min, medium
+- [Idli Sambar](https://itzshoaib.github.io/pantry2plate/recipes/idli-sambar) — South Indian light, 30 min, easy
+- [Upma](https://itzshoaib.github.io/pantry2plate/recipes/upma) — South Indian savory, 20 min, easy
+- [Chicken Chettinad](https://itzshoaib.github.io/pantry2plate/recipes/chicken-chettinad) — South Indian curry, 55 min, medium
+- [Fish Moilee](https://itzshoaib.github.io/pantry2plate/recipes/fish-moilee) — South Indian curry, 30 min, easy
+- [Medu Vada](https://itzshoaib.github.io/pantry2plate/recipes/medu-vada) — South Indian fried, 30 min, medium
+- [Uttapam](https://itzshoaib.github.io/pantry2plate/recipes/uttapam) — South Indian bread meal, 20 min, easy
+- [Pesarattu](https://itzshoaib.github.io/pantry2plate/recipes/pesarattu) — South Indian savory, 25 min, easy
+- [Avial](https://itzshoaib.github.io/pantry2plate/recipes/avial) — South Indian curry, 35 min, easy
+- [Rasam Rice](https://itzshoaib.github.io/pantry2plate/recipes/rasam-rice) — South Indian soup, 25 min, easy
+- [Chicken Manchurian](https://itzshoaib.github.io/pantry2plate/recipes/chicken-manchurian) — Chinese fried, 40 min, medium
+- [Veg Hakka Noodles](https://itzshoaib.github.io/pantry2plate/recipes/veg-hakka-noodles) — Chinese one pot, 25 min, easy
+- [Chilli Chicken](https://itzshoaib.github.io/pantry2plate/recipes/chilli-chicken) — Chinese fried, 35 min, medium
+- [Veg Fried Rice](https://itzshoaib.github.io/pantry2plate/recipes/veg-fried-rice) — Chinese rice bowl, 20 min, easy
+- [Gobi Manchurian](https://itzshoaib.github.io/pantry2plate/recipes/gobi-manchurian) — Chinese fried, 35 min, medium
+- [Chilli Paneer](https://itzshoaib.github.io/pantry2plate/recipes/chilli-paneer) — Chinese fried, 30 min, easy
+- [Schezwan Noodles](https://itzshoaib.github.io/pantry2plate/recipes/schezwan-noodles) — Chinese one pot, 25 min, easy
+- [Momos](https://itzshoaib.github.io/pantry2plate/recipes/momos) — Chinese light, 45 min, medium
+- [Pasta Arrabiata](https://itzshoaib.github.io/pantry2plate/recipes/pasta-arrabiata) — Continental one pot, 25 min, easy
+- [Grilled Chicken Salad](https://itzshoaib.github.io/pantry2plate/recipes/grilled-chicken-salad) — Continental light, 27 min, easy
+- [Mac & Cheese](https://itzshoaib.github.io/pantry2plate/recipes/mac-and-cheese) — Continental one pot, 35 min, easy
+- [Mushroom Risotto](https://itzshoaib.github.io/pantry2plate/recipes/mushroom-risotto) — Continental rice bowl, 40 min, medium
+- [Pancakes](https://itzshoaib.github.io/pantry2plate/recipes/pancakes) — Continental sweet, 25 min, easy
+- [French Toast](https://itzshoaib.github.io/pantry2plate/recipes/french-toast) — Continental sweet, 15 min, easy
+- [Caesar Salad](https://itzshoaib.github.io/pantry2plate/recipes/caesar-salad) — Continental light, 20 min, easy
+- [Garlic Bread Pizza](https://itzshoaib.github.io/pantry2plate/recipes/garlic-bread-pizza) — Continental baked, 30 min, easy
+- [Pad Thai](https://itzshoaib.github.io/pantry2plate/recipes/pad-thai) — Asian one pot, 25 min, medium
+- [Thai Green Curry](https://itzshoaib.github.io/pantry2plate/recipes/thai-green-curry) — Asian curry, 30 min, easy
+- [Ramen](https://itzshoaib.github.io/pantry2plate/recipes/ramen) — Asian soup, 35 min, medium
+- [Bibimbap](https://itzshoaib.github.io/pantry2plate/recipes/bibimbap) — Asian rice bowl, 35 min, medium
+- [Egg Fried Rice](https://itzshoaib.github.io/pantry2plate/recipes/egg-fried-rice) — Asian rice bowl, 15 min, easy
+- [Tacos](https://itzshoaib.github.io/pantry2plate/recipes/tacos) — Mexican bread meal, 30 min, easy
+- [Burrito Bowl](https://itzshoaib.github.io/pantry2plate/recipes/burrito-bowl) — Mexican rice bowl, 35 min, easy
+- [Falafel Wrap](https://itzshoaib.github.io/pantry2plate/recipes/falafel-wrap) — Mediterranean bread meal, 35 min, medium
+- [Hummus Platter](https://itzshoaib.github.io/pantry2plate/recipes/hummus-platter) — Middle Eastern light, 10 min, easy
+- [Khaman Dhokla (ખમણ ઢોકળા)](https://itzshoaib.github.io/pantry2plate/recipes/khaman-dhokla) — Gujarati sweet, 35 min, easy
+- [Undhiyu (ઊંધિયું)](https://itzshoaib.github.io/pantry2plate/recipes/undhiyu) — Gujarati one pot, 90 min, hard
+- [Gujarati Kadhi (ગુજરાતી કઢી)](https://itzshoaib.github.io/pantry2plate/recipes/gujarati-kadhi) — Gujarati curry, 30 min, easy
+- [Methi Thepla (મેથી થેપલા)](https://itzshoaib.github.io/pantry2plate/recipes/methi-thepla) — Gujarati bread meal, 35 min, easy
+- [Khandvi (ખાંડવી)](https://itzshoaib.github.io/pantry2plate/recipes/khandvi) — Gujarati light, 30 min, hard
+- [Handvo (હાંડવો)](https://itzshoaib.github.io/pantry2plate/recipes/handvo) — Gujarati savory, 60 min, medium
+- [Gujarati Toor Dal (ગુજરાતી દાળ)](https://itzshoaib.github.io/pantry2plate/recipes/gujarati-dal) — Gujarati curry, 35 min, easy
+- [Fafda (ફાફડા)](https://itzshoaib.github.io/pantry2plate/recipes/fafda-jalebi) — Gujarati fried, 40 min, medium
+- [Sev Tameta nu Shaak (સેવ ટમેટા નું શાક)](https://itzshoaib.github.io/pantry2plate/recipes/sev-tameta-nu-shaak) — Gujarati curry, 25 min, easy
+- [Misal Pav (मिसळ पाव)](https://itzshoaib.github.io/pantry2plate/recipes/misal-pav) — Maharashtrian curry, 60 min, medium
+- [Vada Pav (वडा पाव)](https://itzshoaib.github.io/pantry2plate/recipes/vada-pav) — Maharashtrian fried, 40 min, medium
+- [Puran Poli (पुरण पोळी)](https://itzshoaib.github.io/pantry2plate/recipes/puran-poli) — Maharashtrian sweet, 60 min, hard
+- [Bharli Vangi (भरली वांगी)](https://itzshoaib.github.io/pantry2plate/recipes/bharli-vangi) — Maharashtrian curry, 50 min, medium
+- [Fish Moilee (മീൻ മോയിലി)](https://itzshoaib.github.io/pantry2plate/recipes/fish-moilee-kerala) — Kerala curry, 40 min, easy
+- [Puttu (പുട്ട്)](https://itzshoaib.github.io/pantry2plate/recipes/puttu) — Kerala light, 25 min, easy
+- [Cabbage Thoran (തോരൻ)](https://itzshoaib.github.io/pantry2plate/recipes/thoran) — Kerala dry, 25 min, easy
+- [Nadan Kozhi Curry (നാടൻ കോഴി കറി)](https://itzshoaib.github.io/pantry2plate/recipes/nadan-kozhi-curry) — Kerala curry, 60 min, medium
+- [Chicken Vindaloo (विंदालू)](https://itzshoaib.github.io/pantry2plate/recipes/chicken-vindaloo) — Goan curry, 65 min, medium
+- [Prawn Balchão (बाल्चाव)](https://itzshoaib.github.io/pantry2plate/recipes/prawn-balchao) — Goan dry, 45 min, medium
+- [Chicken Xacuti (शाकूती)](https://itzshoaib.github.io/pantry2plate/recipes/chicken-xacuti) — Goan curry, 70 min, hard
+- [Dal Baati Churma (दाल बाटी चूरमा)](https://itzshoaib.github.io/pantry2plate/recipes/dal-baati-churma) — Rajasthani bread meal, 90 min, hard
+- [Gatte ki Sabzi (गट्टे की सब्ज़ी)](https://itzshoaib.github.io/pantry2plate/recipes/gatte-ki-sabzi) — Rajasthani curry, 45 min, medium
+- [Laal Maas (लाल मांस)](https://itzshoaib.github.io/pantry2plate/recipes/laal-maas) — Rajasthani curry, 100 min, hard
+- [Hyderabadi Chicken Biryani (حیدرآبادی بریانی)](https://itzshoaib.github.io/pantry2plate/recipes/hyderabadi-chicken-biryani) — Hyderabadi rice bowl, 90 min, hard
+- [Mirchi ka Salan (مرچی کا سالن)](https://itzshoaib.github.io/pantry2plate/recipes/mirchi-ka-salan) — Hyderabadi curry, 45 min, medium
+- [Haleem (حلیم)](https://itzshoaib.github.io/pantry2plate/recipes/haleem) — Hyderabadi one pot, 210 min, hard
+- [Rogan Josh (روغن جوش)](https://itzshoaib.github.io/pantry2plate/recipes/rogan-josh-kashmiri) — Kashmiri curry, 95 min, medium
+- [Mutton Yakhni (یخنی)](https://itzshoaib.github.io/pantry2plate/recipes/kashmiri-yakhni) — Kashmiri curry, 85 min, medium
+- [Dum Aloo Kashmiri (दम आलू)](https://itzshoaib.github.io/pantry2plate/recipes/dum-aloo-kashmiri) — Kashmiri curry, 50 min, medium
+- [Pad Thai (ผัดไทย)](https://itzshoaib.github.io/pantry2plate/recipes/pad-thai-prawn) — Thai one pot, 30 min, medium
+- [Thai Green Curry (แกงเขียวหวาน)](https://itzshoaib.github.io/pantry2plate/recipes/thai-green-curry-chicken) — Thai curry, 40 min, easy
+- [Tom Yum Goong (ต้มยำกุ้ง)](https://itzshoaib.github.io/pantry2plate/recipes/tom-yum-goong) — Thai soup, 35 min, easy
+- [Chicken Teriyaki Donburi (照り焼き丼)](https://itzshoaib.github.io/pantry2plate/recipes/chicken-teriyaki-donburi) — Japanese rice bowl, 25 min, easy
+- [Shoyu Ramen (醤油ラーメン)](https://itzshoaib.github.io/pantry2plate/recipes/shoyu-ramen) — Japanese soup, 60 min, medium
+- [Chicken Katsu Curry (カツカレー)](https://itzshoaib.github.io/pantry2plate/recipes/katsu-curry) — Japanese curry, 50 min, medium
+- [Spaghetti Aglio e Olio (Spaghetti aglio e olio)](https://itzshoaib.github.io/pantry2plate/recipes/spaghetti-aglio-e-olio) — Italian one pot, 20 min, easy
+- [Margherita Pizza (Pizza Margherita)](https://itzshoaib.github.io/pantry2plate/recipes/margherita-pizza) — Italian baked, 35 min, medium
+- [Chicken Parmigiana (Pollo alla parmigiana)](https://itzshoaib.github.io/pantry2plate/recipes/chicken-parmigiana) — Italian grilled, 50 min, medium
+- [Mushroom Risotto (Risotto ai funghi)](https://itzshoaib.github.io/pantry2plate/recipes/mushroom-risotto-italian) — Italian one pot, 45 min, medium
+- [Chicken Shawarma (شاورما الدجاج)](https://itzshoaib.github.io/pantry2plate/recipes/chicken-shawarma) — Middle Eastern grilled, 45 min, easy
+- [Falafel (فلافل)](https://itzshoaib.github.io/pantry2plate/recipes/falafel) — Middle Eastern fried, 35 min, medium
+- [Fattoush (فتوش)](https://itzshoaib.github.io/pantry2plate/recipes/fattoush) — Middle Eastern light, 25 min, easy
+- [Luchi & Aloor Dom (লুচি ও আলুর দম)](https://itzshoaib.github.io/pantry2plate/recipes/luchi-aloor-dom) — Bengali hearty, 45 min, medium
+- [Ghugni (ঘুগনি)](https://itzshoaib.github.io/pantry2plate/recipes/ghugni) — Bengali hearty, 30 min, easy
+- [Aloo Paratha (आलू पराठा)](https://itzshoaib.github.io/pantry2plate/recipes/aloo-paratha) — North Indian hearty, 40 min, medium
+- [Poha (पोहा)](https://itzshoaib.github.io/pantry2plate/recipes/poha) — North Indian light, 20 min, easy
+- [Chole Bhature (छोले भटूरे)](https://itzshoaib.github.io/pantry2plate/recipes/chole-bhature) — North Indian bread meal, 75 min, medium
+- [Congee (粥)](https://itzshoaib.github.io/pantry2plate/recipes/congee) — Chinese light, 45 min, easy
+- [Scallion Pancake (葱油饼)](https://itzshoaib.github.io/pantry2plate/recipes/scallion-pancake) — Chinese savory, 30 min, medium
+- [Paneer Bhurji](https://itzshoaib.github.io/pantry2plate/recipes/paneer-bhurji) — North Indian dry, 15 min, easy
+- [Phodnicha Bhaat (फोडणीचा भात)](https://itzshoaib.github.io/pantry2plate/recipes/phodnicha-bhaat) — Maharashtrian rice bowl, 15 min, easy
+- [Bagara Khana (بگارا کھانا)](https://itzshoaib.github.io/pantry2plate/recipes/bagara-khana) — Hyderabadi rice bowl, 25 min, easy
+- [Hak (Kashmiri Greens) (हाक)](https://itzshoaib.github.io/pantry2plate/recipes/hak-kashmiri-greens) — Kashmiri curry, 25 min, easy
+- [Lemon-Garlic Roast Chicken](https://itzshoaib.github.io/pantry2plate/recipes/lemon-garlic-roast-chicken) — Mediterranean grilled, 75 min, medium
+- [Levantine Chopped Salad](https://itzshoaib.github.io/pantry2plate/recipes/levantine-chopped-salad) — Middle Eastern light, 15 min, easy
+- [Greek Lamb Stifado](https://itzshoaib.github.io/pantry2plate/recipes/greek-lamb-stifado) — Mediterranean one pot, 130 min, medium
+- [Tabbouleh](https://itzshoaib.github.io/pantry2plate/recipes/tabbouleh) — Middle Eastern light, 20 min, easy
+- [Shorbat Adas (Lentil Soup) (شوربة عدس)](https://itzshoaib.github.io/pantry2plate/recipes/shorbat-adas) — Middle Eastern soup, 40 min, easy
+- [Tacos al Pastor](https://itzshoaib.github.io/pantry2plate/recipes/tacos-al-pastor) — Mexican grilled, 60 min, medium
+- [Pozole Rojo](https://itzshoaib.github.io/pantry2plate/recipes/pozole-rojo) — Mexican soup, 90 min, medium
+- [Spaghetti Aglio e Olio](https://itzshoaib.github.io/pantry2plate/recipes/aglio-e-olio) — Italian one pot, 15 min, easy
+- [Pad Krapow Gai (ผัดกะเพราไก่)](https://itzshoaib.github.io/pantry2plate/recipes/pad-krapow-gai) — Thai dry, 15 min, easy
+- [Oyakodon (親子丼)](https://itzshoaib.github.io/pantry2plate/recipes/oyakodon) — Japanese rice bowl, 20 min, easy
+- [Chicken Quesadilla](https://itzshoaib.github.io/pantry2plate/recipes/chicken-quesadilla) — Mexican bread meal, 15 min, easy
+- [Aloo Tikki Chaat](https://itzshoaib.github.io/pantry2plate/recipes/aloo-tikki-chaat) — North Indian chaat, 30 min, medium
+- [Besan Cheela (बेसन चीला)](https://itzshoaib.github.io/pantry2plate/recipes/besan-cheela) — North Indian light, 20 min, easy
+- [Goan Chicken Cafreal](https://itzshoaib.github.io/pantry2plate/recipes/goan-chicken-cafreal) — Goan dry, 35 min, easy

@@ -51,7 +51,7 @@ export const usePantryStore = create<PantryState>()(
       isStapleExcluded: (id) => get().excludedStapleIds.includes(id),
     }),
     {
-      name: 'dinner-spinner-pantry',
+      name: 'pantry2plate-pantry',
       version: 1,
     },
   ),

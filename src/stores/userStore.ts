@@ -67,7 +67,7 @@ export const useUserStore = create<UserState>()(
       setPreferredMealType: (type) => set({ preferredMealType: type }),
     }),
     {
-      name: 'dinner-spinner-user',
+      name: 'pantry2plate-user',
     },
   ),
 )

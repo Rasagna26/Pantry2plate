@@ -7,7 +7,7 @@ import { useSeo } from '../lib/useSeo'
 
 export function FavoritesPage() {
   useSeo({
-    title: 'Favorites — Dinner Spinner',
+    title: 'Favorites — Pantry2Plate',
     description: 'Your saved recipes. Favorites are stored locally on this device.',
     path: '/favorites',
     noIndex: true, // personal state, not worth indexing

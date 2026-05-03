@@ -1,14 +1,14 @@
-# Dinner Spinner
+# Pantry2Plate
 
 A playful meal picker for couples and families. Spin three reels — **cuisine / style / protein** — or set your own filters (time, dietary), and the app hands back recipe suggestions with cook time, difficulty, and ingredient lists.
 
-🔗 **Live:** https://ITZSHOAIB.github.io/dinner-spinner/
+🔗 **Live:** https://ITZSHOAIB.github.io/pantry2plate/
 
 ---
 
 ## Why it exists
 
-Most meal-decision apps either dump a wall of recipes on you or give you one pure-random suggestion. Dinner Spinner sits in between: you constrain the *kind* of meal you want (time, dietary, meal type), then randomness picks *within* those constraints — and you can reroll any single dimension if the combo isn't quite right.
+Most meal-decision apps either dump a wall of recipes on you or give you one pure-random suggestion. Pantry2Plate sits in between: you constrain the *kind* of meal you want (time, dietary, meal type), then randomness picks *within* those constraints — and you can reroll any single dimension if the combo isn't quite right.
 
 ## Features
 
@@ -23,8 +23,8 @@ Most meal-decision apps either dump a wall of recipes on you or give you one pur
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/dinner-spinner.git
-cd dinner-spinner
+git clone https://github.com/YOUR-USERNAME/pantry2plate.git
+cd pantry2plate
 yarn install
 yarn dev
 ```

@@ -1,4 +1,4 @@
-# Contributing to Dinner Spinner
+# Contributing to Pantry2Plate
 
 Thanks for wanting to contribute. The most valuable thing you can add is a **recipe you actually cook**.
 
@@ -21,8 +21,8 @@ That's it. The form is structured so your recipe has everything the app needs, a
 If you know TypeScript and want to wire the recipe yourself:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/dinner-spinner.git
-cd dinner-spinner
+git clone https://github.com/YOUR-USERNAME/pantry2plate.git
+cd pantry2plate
 yarn install
 yarn dev
 ```

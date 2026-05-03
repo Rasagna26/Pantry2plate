@@ -28,7 +28,7 @@ const MEAL_TYPES: MealType[] = ['breakfast', 'lunch', 'dinner', 'snacks']
 
 export function BrowsePage() {
   useSeo({
-    title: 'Browse Recipes — Dinner Spinner',
+    title: 'Browse Recipes — Pantry2Plate',
     description:
       'Browse 150+ recipes across Bengali, Indian, Chinese, Asian, Continental, Mexican and Mediterranean cuisines. Filter by dietary needs, cuisine, and meal type.',
     path: '/recipes/',

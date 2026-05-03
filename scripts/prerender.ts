@@ -21,8 +21,8 @@ const root = resolve(import.meta.dirname, '..')
 const distDir = resolve(root, 'dist')
 const baseTemplate = readFileSync(resolve(distDir, 'index.html'), 'utf8')
 
-const SITE_URL = (process.env.VITE_SITE_URL ?? 'https://itzshoaib.github.io/dinner-spinner').replace(/\/$/, '')
-const BASE_PATH = '/dinner-spinner'
+const SITE_URL = (process.env.VITE_SITE_URL ?? 'https://itzshoaib.github.io/pantry2plate').replace(/\/$/, '')
+const BASE_PATH = '/pantry2plate'
 
 interface RouteMeta {
   routePath: string // app-relative path, e.g. "/recipes" or "/recipes/macher-jhol"
@@ -103,7 +103,7 @@ function recipeBodyHtml(r: Recipe): string {
       <ol>
         ${steps}
       </ol>
-      <p><a href="${BASE_PATH}/">← Back to Dinner Spinner</a></p>
+      <p><a href="${BASE_PATH}/">← Back to Pantry2Plate</a></p>
     </article>
   `.trim()
 }
@@ -111,7 +111,7 @@ function recipeBodyHtml(r: Recipe): string {
 function homeBodyHtml(): string {
   return `
     <main>
-      <h1>Dinner Spinner — Decide what to cook tonight</h1>
+      <h1>Pantry2Plate — Decide what to cook tonight</h1>
       <p>A playful meal picker for couples and families. Spin three reels — cuisine, style, and protein — or filter by time and dietary needs to get curated recipe suggestions.</p>
       <p>Browse the <a href="${BASE_PATH}/recipes">full recipe collection</a> (${recipes.length}+ Bengali, Indian, Chinese, Asian, Continental, Mexican and Mediterranean dishes).</p>
     </main>
@@ -137,7 +137,7 @@ const routes: RouteMeta[] = [
   {
     routePath: '/',
     outFile: 'index.html',
-    title: 'Dinner Spinner — Decide what to cook tonight',
+    title: 'Pantry2Plate — Decide what to cook tonight',
     description:
       'A playful meal picker for couples and families. Spin three reels — cuisine, style, protein — or set your own filters for time and dietary needs. Get curated recipe suggestions with cook time and ingredients.',
     type: 'website',
@@ -145,7 +145,7 @@ const routes: RouteMeta[] = [
     jsonLd: {
       '@context': 'https://schema.org',
       '@type': 'WebApplication',
-      name: 'Dinner Spinner',
+      name: 'Pantry2Plate',
       description:
         'A playful meal picker for couples and families. Spin reels for cuisine, style, and protein or filter by time and dietary needs to get curated recipe suggestions.',
       applicationCategory: 'LifestyleApplication',
@@ -161,7 +161,7 @@ const routes: RouteMeta[] = [
     // and with what's in the sitemap.
     routePath: '/recipes/',
     outFile: 'recipes/index.html',
-    title: 'Browse Recipes — Dinner Spinner',
+    title: 'Browse Recipes — Pantry2Plate',
     description: `Browse ${recipes.length}+ recipes across Bengali, Indian, Chinese, Asian, Continental, Mexican and Mediterranean cuisines. Filter by dietary needs, cuisine, and meal type.`,
     type: 'website',
     bodyHtml: browseBodyHtml(),

@@ -21,7 +21,7 @@ export function Header() {
       <Link to="/" className="flex items-center gap-2 no-underline">
         <UtensilsCrossed className="w-6 h-6 text-turmeric" />
         <span className="font-heading text-xl font-bold text-text-primary">
-          Dinner Spinner
+          Pantry2Plate
         </span>
       </Link>
 

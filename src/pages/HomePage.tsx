@@ -5,7 +5,7 @@ import { useSeo } from '../lib/useSeo'
 
 export function HomePage() {
   useSeo({
-    title: 'Dinner Spinner — Decide what to cook tonight',
+    title: 'Pantry2Plate — Decide what to cook tonight',
     description:
       'A playful meal picker for couples and families. Spin three reels — cuisine, style, protein — or set your own filters for time and dietary needs. Get curated recipe suggestions with cook time and ingredients.',
     path: '/',

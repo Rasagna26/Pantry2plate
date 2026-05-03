@@ -17,7 +17,7 @@ import { cn } from '../lib/cn'
 
 export function PantryPage() {
   useSeo({
-    title: 'Pantry — Cook from what you have · Dinner Spinner',
+    title: 'Pantry — Cook from what you have · Pantry2Plate',
     description:
       'Add the ingredients in your kitchen and discover which recipes you can cook tonight — or how close you are to making them.',
     path: '/pantry',

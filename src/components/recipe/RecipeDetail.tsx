@@ -110,7 +110,7 @@ export function RecipeDetail() {
   useSeo({
     title: recipe
       ? `${recipe.name} — ${recipe.cuisine} ${recipe.mealTypes[0]} recipe`
-      : 'Recipe not found — Dinner Spinner',
+      : 'Recipe not found — Pantry2Plate',
     description: recipe
       ? `${recipe.description} Ready in ${recipe.totalTimeMinutes} minutes · ${recipe.difficulty} · serves ${recipe.servings}.`
       : 'The recipe you’re looking for could not be found.',

@@ -1,4 +1,4 @@
-# Dinner Spinner robots.txt
+# Pantry2Plate robots.txt
 # Reference: https://www.robotstxt.org/robotstxt.html
 
 # Default — allow all general-purpose crawlers
@@ -90,4 +90,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://itzshoaib.github.io/dinner-spinner/sitemap.xml
+Sitemap: https://itzshoaib.github.io/pantry2plate/sitemap.xml
