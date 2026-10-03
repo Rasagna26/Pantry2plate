@@ -1,121 +1,109 @@
-# Pantry2Plate
+# 🍽️ Pantry2Plate
 
-A playful meal picker for couples and families. Spin three reels — **cuisine / style / protein** — or set your own filters (time, dietary), and the app hands back recipe suggestions with cook time, difficulty, and ingredient lists.
+**Turn your ingredients into delicious meal ideas!**
 
-🔗 **Live:** https://ITZSHOAIB.github.io/pantry2plate/
+Pantry2Plate is a smart and interactive recipe discovery application that helps users find meal ideas based on their preferences, available ingredients, cuisine, and cooking time.
 
----
+🔗 **Live Demo:** https://pantry2plate.vercel.app
 
-## Why it exists
+## ✨ Features
 
-Most meal-decision apps either dump a wall of recipes on you or give you one pure-random suggestion. Pantry2Plate sits in between: you constrain the *kind* of meal you want (time, dietary, meal type), then randomness picks *within* those constraints — and you can reroll any single dimension if the combo isn't quite right.
+* 🎰 **Meal Spinner:** Discover random meal combinations with an interactive spinner.
+* 🔍 **Recipe Search:** Search for recipes using names, ingredients, and cuisines.
+* 🍜 **Cuisine Selection:** Explore recipes from different cuisines.
+* ❤️ **Favorites:** Save and manage your favorite recipes.
+* 🔖 **Favorites Search and Filters:** Search saved recipes, filter by cuisine, and sort by name or cooking time.
+* ⏱️ **Time Filters:** Find recipes according to available cooking time.
+* 🥗 **Dietary Preferences:** Filter recipes based on dietary requirements.
+* 🔄 **Targeted Rerolls:** Change selected meal components without starting over.
+* 📱 **Progressive Web App:** Enjoy app-like functionality and offline support.
+* 🌙 **Dark Mode:** Switch between light and dark themes.
 
-## Features
+## 🛠️ Tech Stack
 
-- **Three-reel spinner** — tap or drag each reel to set it manually, or hit spin for a full random
-- **Constraint filters** — time (any / <20 / <45 / <90 min) and dietary (Veg / Non-veg / Egg-ok / GF / DF)
-- **Targeted rerolls** — "different cuisine / style / protein" buttons in the result card
-- **Similarity recommendations** — each recipe page shows related dishes ranked by shared tags, key ingredients, time and spice level (not just same-cuisine)
-- **Offline-ready** — PWA with service worker; install to homescreen on iOS/Android
-- **Modern fonts** — Fraunces (display) + Plus Jakarta Sans (UI)
-- **Dark mode** — detects system preference, toggle in Preferences
+* React 19
+* TypeScript
+* Vite
+* Tailwind CSS 4
+* Zustand
+* React Router
+* Motion
+* Progressive Web App (PWA)
 
-## Quick start
+## 🚀 Getting Started
 
-```bash
-git clone https://github.com/YOUR-USERNAME/pantry2plate.git
-cd pantry2plate
-yarn install
-yarn dev
+### Prerequisites
+
+* Node.js
+* npm
+* Git
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Rasagna26/Pantry2plate.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd Pantry2plate
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL shown in your terminal.
+
+## 📂 Project Structure
+
+```text
+Pantry2plate/
+├── public/
+├── scripts/
+├── src/
+│   ├── components/
+│   ├── data/
+│   ├── lib/
+│   ├── pages/
+│   └── stores/
+├── .github/
+├── package.json
+├── README.md
+└── vite.config.ts
 ```
 
-Open http://localhost:5173 and start spinning.
+## 💡 Recent Updates
 
-## Deploy to GitHub Pages
+* Improved the Favorites page layout.
+* Added search functionality for saved recipes.
+* Added cuisine-based filtering.
+* Added sorting options for saved recipes by name and cooking time.
+* Improved the empty state for a cleaner user experience.
 
-1. Copy `.env.example` → `.env`, set `VITE_SITE_URL` to your live URL
-2. In your GitHub repo Settings → Pages, set Source to **GitHub Actions**
-3. Add a repo variable `VITE_SITE_URL` (Settings → Variables → Actions) with the same value
-4. Push to `main` — the workflow in `.github/workflows/deploy.yml` builds and publishes
+## 🎯 Project Objective
 
-(Or manually: `yarn deploy`)
+The objective of Pantry2Plate is to simplify everyday meal planning by helping users discover recipes based on the ingredients and preferences they already have.
 
-## Contributing
+## 👩‍💻 Maintainer
 
-**The best thing you can add is a recipe you actually cook.** See **[CONTRIBUTING.md](CONTRIBUTING.md)** for the recipe schema, valid values, and canonical tags.
+**Rasagna**
 
-Two paths:
+GitHub: [@Rasagna26](https://github.com/Rasagna26)
 
-- **Non-developer**: open an ["Add a recipe" issue](../../issues/new?template=add-recipe.yml) — fill a form, maintainer turns it into a PR
-- **Developer**: edit a file in `src/data/`, run `yarn validate-recipes`, open PR
+This repository is maintained by Rasagna. The original project and its existing contributions retain their applicable attribution and license notices.
 
-## How recommendations work
+## 📜 License
 
-**Matcher** (`src/stores/recipeStore.ts → getMatchingRecipes`)
-1. Filter the full recipe pool by meal type + time limit + dietary flags
-2. Look for **exact** cuisine + style + protein match in that pool
-3. If none: **partial** match (2 of 3 reel dimensions)
-4. If none: **cuisine-only** match
-5. Within each tier, rank by `spinAlignment` (how many dimensions line up) then shorter cook time
-6. If no tier has results, return `[]` — UI shows a clear empty state with the active filters and a Clear-filters button
-
-**Similarity** (`src/lib/similarity.ts → similarityScore`)
-
-Weighted 0..1 score between two recipes:
-
-| Factor | Weight | Why |
-|---|---|---|
-| Same cuisine | 22% | Strongest single signal |
-| **Tag Jaccard** | **25%** | Mood/technique/taste overlap — highest weight after vocabulary cleanup |
-| Shared key ingredients | 12% | Real overlap, not just labels |
-| Same style | 15% | Format alignment |
-| Same protein | 10% | Dietary alignment |
-| Time similarity | 10% | 60-min horizon decay |
-| Spice similarity | 6% | Tiebreaker for mood |
-
-Used on recipe-detail "You might also like" — surfaces cross-cuisine dishes when score ≥ 0.35.
-
-## Tech stack
-
-- **Vite** + **React 19** + **TypeScript**
-- **Tailwind CSS 4** (with a small custom theme in `src/index.css`)
-- **Zustand** for state (persists favorites / preferences / cooked history to localStorage)
-- **React Router 7** + `BrowserRouter` + SPA 404 redirect for GH Pages deep links
-- **Motion** (Framer Motion) for reel spinning + banner transitions
-- **vite-plugin-pwa** for service worker + manifest
-- **tsx** for the recipe validator script
-
-## Project structure
-
-```
-src/
-  components/
-    layout/          Header, BottomNav, Layout
-    spinner/         Reel, SpinnerHousing, SpinButton, SpinResultBanner,
-                     TimeFilterChips, DietaryFilterChips
-    recipe/          RecipeCard, RecipeDetail, RecommendationCarousel
-  data/
-    types.ts         Recipe, MealType, SpinResult, ReelOption
-    recipes*.ts      The dataset (inline TS arrays)
-    reelOptions.ts   Canonical cuisine/style/protein values per mealType
-    tagVocab.ts      46 canonical tags grouped by facet
-    tagMigration.ts  Legacy → canonical tag map
-  lib/
-    similarity.ts    similarityScore, rankBySimilarity, spinAlignment
-    recipeLinks.ts   YouTube / article search URL fallbacks
-    useSeo.ts        Per-page title / meta / OG / JSON-LD
-    theme.ts         Dark mode toggle
-  pages/             HomePage, BrowsePage, FavoritesPage, PreferencesPage
-  stores/            spinnerStore, recipeStore, userStore
-scripts/
-  validate-recipes.ts  Runs locally (`yarn validate-recipes`) + in CI on PRs
-public/
-  404.html           SPA fallback for GitHub Pages deep links
-  robots.txt
-  sitemap.xml
-  favicon.svg
-```
-
-## License
-
-[MIT](LICENSE) — see the license file for terms. By contributing, you agree to license your contribution under the same terms.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
